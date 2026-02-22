@@ -15,13 +15,10 @@ by XXX et al. We will make the complete code publicly available after the paper 
 ```
 
 ## Video Visualization
-<img src="./tracker/output/video/Track_MultiUAV-009.gif" alt="Motivation" style="width: 180px; height: auto;">
-<img src="./tracker/output/video/Track_MultiUAV-185.gif" alt="Motivation" style="width: 180px; height: auto;">
-<img src="./tracker/output/video/Track_MultiUAV-226.gif" alt="Motivation" style="width: 180px; height: auto;">
+<img src="./tracker/output/video/Track_MultiUAV-009.gif" alt="Motivation" style="width: 180px; height: auto;"><img src="./tracker/output/video/Track_MultiUAV-185.gif" alt="Motivation" style="width: 180px; height: auto;"><img src="./tracker/output/video/Track_MultiUAV-226.gif" alt="Motivation" style="width: 180px; height: auto;">
 
 ## ID Results
-<img src="./tracker/output/vis_result/fig1a.jpg" alt="Structure" style="width: 270px; height: auto;">
-<img src="./tracker/output/vis_result/fig1b.jpg" alt="Results" style="width: 270px; height: auto;">
+<img src="./tracker/output/vis_result/fig1a.jpg" alt="Structure" style="width: 270px; height: auto;"><img src="./tracker/output/vis_result/fig1b.jpg" alt="Results" style="width: 270px; height: auto;">
 
 ## Domains
 
