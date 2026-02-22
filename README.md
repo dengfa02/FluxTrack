@@ -39,7 +39,7 @@ and then directly apply `FluxTrack` to read them to obtain the tracking results.
 ## Usage
 * Run `Customized_detection.py` to perform Tracking inference.
   ```
-  $ cd ./FluxTracnk
+  $ cd ./FluxTrack
   $ pip install -r requirements.txt
   $ python Customized_detection.py --cmc-method 'sparseOptFlow' --track_high_thresh 0.5 --match_thresh 0.9
   ```
