@@ -1,14 +1,14 @@
 # *<center>Vision Anti-UAV Tracking via Kalman-Free Diffusion Dynamics and Anisotropic Matching</center>*
 
 This repository contains the algorithm done in the
-work [Vision Anti-UAV Tracking via Kalman-Free Diffusion Dynamics and Anisotropic Matching](https://github.com/dengfa02/FluxTrack)
-by XXX et al. We will make the complete code publicly available after the paper is accepted.
+work [Do We Need Kalman Filters? Training-Free Observation-Driven Momentum for Infrared Tiny UAV Multi-Object Tracking](https://github.com/dengfa02/FluxTrack)
+by Chuiyi Deng et al. We will make the complete code publicly available after the paper is accepted.
 
 **Update**:TODO
 ```
 @article{FluxTrack,
-  author = {Anonymous author},
-  title = {Vision Anti-UAV Tracking via Kalman-Free Diffusion Dynamics and Anisotropic Matching},
+  author = {Chuiyi Deng, Shuangxin Wang, Zongyu Zuo, Yanyin Guo, Zhuoyi Zhao, Rui Zheng, and Junwei Li},
+  title = {Do We Need Kalman Filters? Training-Free Observation-Driven Momentum for Infrared Tiny UAV Multi-Object Tracking},
   journal = {xxx},
   year = {2026},
 }
